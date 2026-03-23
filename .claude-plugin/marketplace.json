@@ -1,0 +1,6 @@
+﻿{
+  "name": "sistema-maestro-360",
+  "owner": {"name": "Resendiz Digital Systems", "email": "juan.resendiz.arellano@gmail.com"},
+  "metadata": {"description": "Professional AI-powered business skills for SMBs.", "version": "1.0.0", "pluginRoot": "./plugins"},
+  "plugins": [{"name": "meta-ads-reporter", "source": "./meta-ads-reporter", "description": "Meta Ads KPI dashboards and reports from CSV exports.", "version": "1.0.0", "author": {"name": "Resendiz Digital Systems"}, "category": "marketing-analytics", "tags": ["meta-ads","facebook-ads","marketing","analytics","reporting","KPI"], "keywords": ["meta ads","campaign report","KPI dashboard","ROAS"]}]
+}

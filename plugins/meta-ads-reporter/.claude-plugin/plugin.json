@@ -1,0 +1,9 @@
+﻿{
+  "name": "meta-ads-reporter",
+  "description": "Generate professional Meta Ads reports with KPI dashboards, efficiency scores, and campaign rankings from CSV exports.",
+  "version": "1.0.0",
+  "author": {"name": "Resendiz Digital Systems", "email": "juan.resendiz.arellano@gmail.com"},
+  "homepage": "https://github.com/juanresendizarellano-ai/sistema-maestro-360-marketplace",
+  "license": "MIT",
+  "keywords": ["meta-ads","facebook-ads","reporting","analytics","dashboard"]
+}
